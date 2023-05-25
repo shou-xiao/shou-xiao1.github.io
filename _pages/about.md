@@ -15,7 +15,7 @@ I am a PhD student at Department of Mathematical Sciences, Rensselaer Polytechni
 ------
 * My research interests include modeling, causal inference, structural discovery and decision making for sequences.  -->
 
-I am a [2020 IBM AI Horizons Scholar](https://airc.rpi.edu/aih-scholars) as part of [RPI-IBM AI Research Collaboration](https://airc.rpi.edu/) and working with [Dr. Dharmashankar Subramanian](https://researcher.watson.ibm.com/researcher/view.php?person=us-dharmash), [Dr. Tian Gao](https://researcher.watson.ibm.com/researcher/view.php?person=us-tgao) and [Dr. Debarun Bhattacharjya] (https://researcher.watson.ibm.com/researcher/view.php?person=us-debarunb)
+I am a [2020 IBM AI Horizons Scholar](https://airc.rpi.edu/aih-scholars) as part of [RPI-IBM AI Research Collaboration](https://airc.rpi.edu/) and working with [Dr. Dharmashankar Subramanian](https://researcher.watson.ibm.com/researcher/view.php?person=us-dharmash), [Dr. Tian Gao](https://researcher.watson.ibm.com/researcher/view.php?person=us-tgao) and [Dr. Debarun Bhattacharjya](https://researcher.watson.ibm.com/researcher/view.php?person=us-debarunb)
 
 Before joining RPI, I received my Bachelor's degree from [Wittenberg University](https://www.wittenberg.edu/) in 2012 and my Master's degree from [Ohio State University](https://www.osu.edu/) in 2014.
 
