@@ -30,22 +30,29 @@ Education
 
 Publications
 ======
-* Shou, X., Mavroudeas, G., New, A., Arhin, K., Kuruzovich, J. N., Magdon-Ismail, M., & Bennett, K. P. [Supervised mixture models for population health](https://www.cs.rpi.edu/~magdon/ps/conference/CadreBIBM2019.pdf). IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2019. 
-* Shou, X., Gao, T., Subramanian, D., & Bennett, K. P. [Match2: hybrid self-organizing map and deep learning strategies for treatment effect estimation](https://dl.acm.org/doi/pdf/10.1145/3459930.3469532). ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (Best Student Paper Award), 2021.
-* Gao, T., Subramanian, D., Bhattacharjya, D., Shou, X., Mattei, N., & Bennett, K. [Causal Inference for Event Pairs in Multivariate Point Processes](https://proceedings.neurips.cc/paper/2021/file/9078f2a8254704bd760460f027072e52-Paper.pdf). NeurIPS, 2021.
-* Mavroudeas, G., Neehal, N., Shou, X., Magdon-Ismail, M., Kuruzovich, J., and Bennett K. P. Predictive Modeling for Complex Care Management. IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2021.
-* Shou, X., Mavroudeas, G., Magdon-Ismail, M., Figueroa, J., Kuruzovich, J. N., & Bennett, K. P. [Supervised mixture of expert models for population health](https://www.sciencedirect.com/science/article/abs/pii/S1046202320300438). Methods, 179, 101-110, 2020.
-* Mavroudeas, G., Magdon-Ismail M., Shou, X., and Bennett K. P. HMM-Boost: Improved Time Series State Prediction Via Supervised Hidden Markov Models: Case Studies in Epileptic Seizure and Complex Care Management. IEEE International Conference on Knowledge Graph (ICKG), 2022.
-* Shou, X., Gao, T., Subramanian, D., Bhattacharjya, D. & Bennett, K. P. Multi-Label Event Prediction in Continuous Time.
-AAAI 23. (Oral Presentation)
-* Bhattacharjya D., Gao T., Subramanian, D., & Shou, X. Score-Based Learning of Graphical Event Models with Background
-Knowledge Augmentation. AAAI 23.
-* Shou, X., Gao, T., Subramanian, D., Bhattacharjya, D. & Bennett, K. P. Influence-Aware Attention for Multi-dimensional
-Temporal Point Process. CLeaR 23 (Causal Learning and Reasoning).
-* Shou, X., Bhattacharjya, D. Gao, T., Subramanian, D., Hassanzadeh, O., & Bennett, K. P. Probabilistic Attention-to-
-Influence Neural Models for Event Sequences. ICML 23.
 * Shou, X., Subramanian, D., Bhattacharjya, D., Gao, T. & Bennett, K. P. Event-former: A Self-supervised Learning Paradigm for Temporal Point Processes. Under review.
 * Shou, X., Gao, T, Subramanian, D., Bhattacharjya, D., Hassanzadeh, O. & Bennett, K. P. Pairwise Causality Guided Transformers for Event Sequences. Under review.
+* Shou, X., Bhattacharjya, D. Gao, T., Subramanian, D., Hassanzadeh, O., & Bennett, K. P. Probabilistic Attention-to-
+Influence Neural Models for Event Sequences. ICML 23. [Neural_SuMMs.pdf](https://github.com/shou-xiao/shou-xiao.github.io/files/11568586/Neural_SuMMs.pdf)
+* Shou, X., Gao, T., Subramanian, D., Bhattacharjya, D. & Bennett, K. P. [Influence-Aware Attention for Multi-dimensional
+Temporal Point Process](https://openreview.net/pdf?id=O6lke-lyluT). CLeaR 23 (Causal Learning and Reasoning).
+* Bhattacharjya D., Gao T., Subramanian, D., & Shou, X. Score-Based Learning of Graphical Event Models with Background
+Knowledge Augmentation. AAAI 23.[BK_in_GEMs_final.pdf](https://github.com/shou-xiao/shou-xiao.github.io/files/11568588/BK_in_GEMs_final.pdf)
+* Shou, X., Gao, T., Subramanian, D., Bhattacharjya, D. & Bennett, K. P. [Multi-Label Event Prediction in Continuous Time](https://idea.rpi.edu/sites/default/files/2022-11/xiao_shou_multi_label_aaai23%5B1%5D-1.pdf).
+AAAI 23. (Oral Presentation)
+* Mavroudeas, G., Magdon-Ismail M., Shou, X., and Bennett K. P. HMM-Boost: Improved Time Series State Prediction Via Supervised Hidden Markov Models: Case Studies in Epileptic Seizure and Complex Care Management. IEEE International Conference on Knowledge Graph (ICKG), 2022.
+* Gao, T., Subramanian, D., Bhattacharjya, D., Shou, X., Mattei, N., & Bennett, K. [Causal Inference for Event Pairs in Multivariate Point Processes](https://proceedings.neurips.cc/paper/2021/file/9078f2a8254704bd760460f027072e52-Paper.pdf). NeurIPS, 2021.
+* Shou, X., Gao, T., Subramanian, D., & Bennett, K. P. [Match2: hybrid self-organizing map and deep learning strategies for treatment effect estimation](https://dl.acm.org/doi/pdf/10.1145/3459930.3469532). ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (Best Student Paper Award), 2021.
+* Mavroudeas, G., Neehal, N., Shou, X., Magdon-Ismail, M., Kuruzovich, J., and Bennett K. P. Predictive Modeling for Complex Care Management. IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2021.
+* Shou, X., Mavroudeas, G., Magdon-Ismail, M., Figueroa, J., Kuruzovich, J. N., & Bennett, K. P. [Supervised mixture of expert models for population health](https://www.sciencedirect.com/science/article/abs/pii/S1046202320300438). Methods, 179, 101-110, 2020.
+* Shou, X., Mavroudeas, G., New, A., Arhin, K., Kuruzovich, J. N., Magdon-Ismail, M., & Bennett, K. P. [Supervised mixture models for population health](https://www.cs.rpi.edu/~magdon/ps/conference/CadreBIBM2019.pdf). IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2019. 
+
+
+
+
+
+
+
 
 
 
