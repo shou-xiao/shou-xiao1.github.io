@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Burak Varici"
+title                    : "Xiao Shou"
 title_separator          : "-"
-name                     : &name "Burak Varici"
+name                     : &name "Xiao Shou"
 description              : &description "about me"
-url                      : https://bvarici.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://shou-xiao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "bvarici/bvarici.github.io"
+repository               :  "shou-xiao/shou-xiao.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Burak Varici"
-  avatar           : "Varici.jpg"
+  name             : "Xiao Shou"
+  avatar           : "shou.jpg"
   bio              : 
   location         : "Troy, NY"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=v_SL5c4AAAAJ&hl=tr&oi=ao"
-  email            : "burakvarici@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=Wk0z_ysAAAAJ"
+  email            : "xshou01@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "bvarici"
+  github           : "shoux1990"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "VariciBurak"
+  twitter          : #"VariciBurak"
   vine             :
   weibo            :
   xing             :
