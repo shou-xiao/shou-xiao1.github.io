@@ -30,9 +30,9 @@ Education
 
 Publications
 ======
-* Shou, X., Mavroudeas, G., New, A., Arhin, K., Kuruzovich, J. N., Magdon-Ismail, M., & Bennett, K. P. Supervised mixture models for population health. IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2019.
+* Shou, X., Mavroudeas, G., New, A., Arhin, K., Kuruzovich, J. N., Magdon-Ismail, M., & Bennett, K. P. [Supervised mixture models for population health](https://www.cs.rpi.edu/~magdon/ps/conference/CadreBIBM2019.pdf). IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2019. 
 * Shou, X., Gao, T., Subramanian, D., & Bennett, K. P. Match2: hybrid self-organizing map and deep learning strategies for treatment effect estimation. ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (Best Student Paper Award), 2021.
-* Gao, T., Subramanian, D., Bhattacharjya, D., Shou, X., Mattei, N., & Bennett, K. Causal Inference for Event Pairs in Multivariate Point Processes. NeurIPS, 2021.
+* Gao, T., Subramanian, D., Bhattacharjya, D., Shou, X., Mattei, N., & Bennett, K. [Causal Inference for Event Pairs in Multivariate Point Processes](https://proceedings.neurips.cc/paper/2021/file/9078f2a8254704bd760460f027072e52-Paper.pdf). NeurIPS, 2021.
 * Mavroudeas, G., Neehal, N., Shou, X., Magdon-Ismail, M., Kuruzovich, J., and Bennett K. P. Predictive Modeling for Complex Care Management. IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2021.
 * Shou, X., Mavroudeas, G., Magdon-Ismail, M., Figueroa, J., Kuruzovich, J. N., & Bennett, K. P. Supervised mixture of expert models for population health. Methods, 179, 101-110, 2020.
 * Mavroudeas, G., Magdon-Ismail M., Shou, X., and Bennett K. P. HMM-Boost: Improved Time Series State Prediction Via Supervised Hidden Markov Models: Case Studies in Epileptic Seizure and Complex Care Management. IEEE International Conference on Knowledge Graph (ICKG), 2022.
