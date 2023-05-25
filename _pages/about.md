@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a PhD student at Department of Mathematical Sciences, Rensselaer Polytechnic Institute ([RPI](https://www.ecse.rpi.edu/)),  working  under the supervision of [Prof. Kristin Bennett](https://homepages.rpi.edu/~bennek/). I am broadly interested in probabilistic machine learning, temporal event sequences, point process, natural language understanding and causal inference.
+I am a PhD student at Department of Mathematical Sciences, Rensselaer Polytechnic Institute ([RPI](https://www.ecse.rpi.edu/)),  working  under the supervision of [Prof. Kristin Bennett](https://homepages.rpi.edu/~bennek/). I am broadly interested in probabilistic machine learning, temporal event sequences, point process, natural language understanding and causal inference. My current research interests include modeling, causal inference, structural discovery and decision making for and from sequential data.
 
 <!-- Service
 ------
