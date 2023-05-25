@@ -9,53 +9,63 @@ redirect_from:
 ---
 
 
-I am a PhD student at Department of Electrical, Computer and Systems Engineering (ECSE), Rensselaer Polytechnic Institute ([RPI](https://www.ecse.rpi.edu/)),  working  under the supervision of [Prof. Ali Tajer](https://www.isg-rpi.com/). I am broadly interested in causal inference using observational and interventional data, especially in high-dimensional causal graphs.
+I am a PhD student at Department of Mathematical Sciences, Rensselaer Polytechnic Institute ([RPI](https://www.ecse.rpi.edu/)),  working  under the supervision of [Prof. Kristin Bennett](https://homepages.rpi.edu/~bennek/). I am broadly interested in probabilistic machine learning, temporal event sequences, point process, natural language understanding and causal inference.
 
 <!-- Service
 ------
-* My research interests include structure learning of high-dimensional graphical models and causal inference for multi-modality.  -->
+* My research interests include modeling, causal inference, structural discovery and decision making for sequences.  -->
 
-I am a [2020 IBM AI Horizons Scholar](https://airc.rpi.edu/aih-scholars) as part of [RPI-IBM AI Research Collaboration](https://airc.rpi.edu/) and working with [Dr. Karthikeyan Shanmugam](https://sites.google.com/a/utexas.edu/karthiksh/) and [Dr. Prasanna Sattigeri](https://pronics2004.github.io/). 
+I am a [2020 IBM AI Horizons Scholar](https://airc.rpi.edu/aih-scholars) as part of [RPI-IBM AI Research Collaboration](https://airc.rpi.edu/) and working with [Dr. Dharmashankar Subramanian](https://researcher.watson.ibm.com/researcher/view.php?person=us-dharmash), [Dr. Tian Gao](https://researcher.watson.ibm.com/researcher/view.php?person=us-tgao) and [Dr. Debarun Bhattacharjya] (https://researcher.watson.ibm.com/researcher/view.php?person=us-debarunb)
 
-Before joining RPI, I received my Bachelor's degree from [Electrical & Electronics Engineering](https://ee.boun.edu.tr/), [Bogazici University](http://www.boun.edu.tr/en-US/Index) in 2018.
+Before joining RPI, I received my Bachelor's degree from [Wittenberg University](https://www.wittenberg.edu/) in 2012 and my Master's degree from [Ohio State University](https://www.osu.edu/) in 2014.
 
 Education
 ======
 
-* Ph.D. in Electrical Engineering, Rensselaer Polytechnic Institute, (2018-Present)
-* M.Sc in Electrical Engineering, Rensselaer Polytechnic Institute, 2020
-* B.Sc. in Electrical & Electronics Engineering, Bogazici University, Istanbul, Turkey, 2018
-* B.Sc. Exchange Student in Electrical & Computer Engineering, The University of Wisconsin at Madison, 2016
+* Ph.D. in Applied Mathematics, Rensselaer Polytechnic Institute, Troy,NY (2018-2023)
+* M.Sc in Computer Science, Rensselaer Polytechnic Institute, Troy, NY (2022-2023)
+* M.Sc in Chemistry, Ohio State University,Columbus, Ohio, 2014
+* B.A. in Chemistry (minor in Applied Mathematics,Japanese & East Asian Studies) Wittenberg University, Spring, Ohio, 2012
 
 
 Publications
 ======
-**B. Varici**, E. Acarturk, K. Shanmugam, A. Kumar, and A. Tajer, "[Score-based Causal Representation Learning with Interventions
-](https://arxiv.org/abs/2301.08230)", *under review*.
-
-**B. Varici**, K. Shanmugam, P. Sattigeri, and A. Tajer, "[Causal Bandits for Linear Structural Equation Models](https://arxiv.org/abs/2208.12764)", *under review*.
-
-**B. Varici**, K. Shanmugam, P. Sattigeri, and A. Tajer, "[Intervention Target Estimation in the Presence of Latent Variables](https://proceedings.mlr.press/v180/varici22a)", *Conference on Uncertainty in Artifical Intelligence* (UAI), 2022.
-
-**B. Varici**, K. Shanmugam, P. Sattigeri, and A. Tajer, "[Scalable Intervention Target Estimation in Linear Models](https://arxiv.org/abs/2111.07512)", *Advances in Neural Information Processing Systems* (NeurIPS), 2021.
-
-**B. Varici**, S. Sihag, and A. Tajer, "[Learning Shared Subgraphs in Ising Model Pairs](http://proceedings.mlr.press/v130/varici21a.html)", in Proc. *International Conference on Artificial Intelligence and Statistics* (AISTATS), 2021.
+* Shou, X., Mavroudeas, G., New, A., Arhin, K., Kuruzovich, J. N., Magdon-Ismail, M., & Bennett, K. P. Supervised mixture models for population health. IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2019.
+* Shou, X., Gao, T., Subramanian, D., & Bennett, K. P. Match2: hybrid self-organizing map and deep learning strategies for treatment effect estimation. ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (Best Student Paper Award), 2021.
+* Gao, T., Subramanian, D., Bhattacharjya, D., Shou, X., Mattei, N., & Bennett, K. Causal Inference for Event Pairs in Multivariate Point Processes. NeurIPS, 2021.
+* Mavroudeas, G., Neehal, N., Shou, X., Magdon-Ismail, M., Kuruzovich, J., and Bennett K. P. Predictive Modeling for Complex Care Management. IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2021.
+* Shou, X., Mavroudeas, G., Magdon-Ismail, M., Figueroa, J., Kuruzovich, J. N., & Bennett, K. P. Supervised mixture of expert models for population health. Methods, 179, 101-110, 2020.
+* Mavroudeas, G., Magdon-Ismail M., Shou, X., and Bennett K. P. HMM-Boost: Improved Time Series State Prediction Via Supervised Hidden Markov Models: Case Studies in Epileptic Seizure and Complex Care Management. IEEE International Conference on Knowledge Graph (ICKG), 2022.
+* Shou, X., Gao, T., Subramanian, D., Bhattacharjya, D. & Bennett, K. P. Multi-Label Event Prediction in Continuous Time.
+AAAI 23. (Oral Presentation)
+* Bhattacharjya D., Gao T., Subramanian, D., & Shou, X. Score-Based Learning of Graphical Event Models with Background
+Knowledge Augmentation. AAAI 23.
+* Shou, X., Gao, T., Subramanian, D., Bhattacharjya, D. & Bennett, K. P. Influence-Aware Attention for Multi-dimensional
+Temporal Point Process. CLeaR 23 (Causal Learning and Reasoning).
+* Shou, X., Bhattacharjya, D. Gao, T., Subramanian, D., Hassanzadeh, O., & Bennett, K. P. Probabilistic Attention-to-
+Influence Neural Models for Event Sequences. ICML 23.
+* Shou, X., Subramanian, D., Bhattacharjya, D., Gao, T. & Bennett, K. P. Event-former: A Self-supervised Learning Paradigm for Temporal Point Processes. Under review.
+* Shou, X., Gao, T, Subramanian, D., Bhattacharjya, D., Hassanzadeh, O. & Bennett, K. P. Pairwise Causality Guided Transformers for Event Sequences. Under review.
 
 
 
 Teaching
 ------
-I have been a TA for the following courses at RPI:
-* ECSE 1010: Introduction to ECSE (Fall 2018)
-* ECSE 2610: Computer Components and Operations (Fall 2018, Spring 2019)
-* ECSE 2410: Signals and Systems (Spring 2019, Spring 2020)
+I have been a TA for the following courses:
+* Department of Chemistry and Biochemistry, The Ohio State University
+* Physical Chemistry I: August 2012
+* General Chemistry I & II: January 2013 – August 2013
+* Department of Mathematics, Rensselaer Polytechnic Institute
+* Calculus I: Fall 2018
+* Introduction to Data Mathematics (with R): Spring 2019
+
 
 <!-- Service
 ------
-* Reviewer for NeurIPS 2021, NeurIPS 2022, AAAI 2023 -->
+* Reviewer for AMIA 2022, AISTATS 2023, NeurIPS 2023 -->
 
 
 <!-- Other
 ------
 
-I enjoy watching basketball, playing fantasy sports and drinking tea. -->
+I enjoy watching hiking, running, working out and fun family trips. -->
