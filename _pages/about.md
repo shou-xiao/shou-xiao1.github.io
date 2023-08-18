@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a PhD student at Department of Mathematical Sciences, Rensselaer Polytechnic Institute ([RPI](https://www.ecse.rpi.edu/)),  working  under the supervision of [Prof. Kristin Bennett](https://homepages.rpi.edu/~bennek/). I am broadly interested in probabilistic machine learning, temporal event sequences, point process, natural language understanding and causal inference. My current research interests include modeling, causal inference, structural discovery and decision making for and from sequential data.
+I am a PhD student at Department of Mathematical Sciences, Rensselaer Polytechnic Institute ([RPI](https://www.ecse.rpi.edu/)),  working  under the supervision of [Prof. Kristin Bennett](https://homepages.rpi.edu/~bennek/). I am broadly interested in probabilistic machine learning, time series /temporal point process modeling, natural language understanding and causal inference. My current research interests include modeling, causal inference, structural discovery and decision making for and from sequential data.
 
 <!-- Service
 ------
@@ -48,14 +48,6 @@ AAAI 23. (Oral Presentation)
 * Shou, X., Mavroudeas, G., New, A., Arhin, K., Kuruzovich, J. N., Magdon-Ismail, M., & Bennett, K. P. [Supervised mixture models for population health](https://www.cs.rpi.edu/~magdon/ps/conference/CadreBIBM2019.pdf). IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2019. 
 
 
-
-
-
-
-
-
-
-
 Teaching
 ------
 I have been a TA for the following courses:
@@ -66,13 +58,16 @@ I have been a TA for the following courses:
 * Calculus I: Fall 2018
 * Introduction to Data Mathematics (with R): Spring 2019
 
-
-<!-- Service
+Tutorials
 ------
-* Reviewer for AMIA 2022, AISTATS 2023, NeurIPS 2023 -->
+* IJCAI-23: Graphical Event Models, August 2023, Macao China. https://sites.google.com/view/tiangao/tutorials
+
+Service
+------
+* Reviewer for AMIA 2022, AISTATS 2023, NeurIPS 2023, TNNLS
 
 
-<!-- Other
+Other
 ------
 
-I enjoy watching hiking, running, working out and fun family trips. -->
+I enjoy watching hiking, running, working out and fun family trips.
