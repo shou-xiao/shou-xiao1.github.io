@@ -60,7 +60,7 @@ I have been a TA for the following courses:
 
 Tutorials
 ------
-* IJCAI-23: Graphical Event Models, August 2023, Macao China. [Slides](https://sites.google.com/view/tiangao/tutorials)
+* IJCAI-23: Graphical Event Models, August 20, 2023, Macao China. [Slides](https://sites.google.com/view/tiangao/tutorials)
 
 Service
 ------
