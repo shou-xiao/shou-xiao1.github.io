@@ -70,4 +70,4 @@ Service
 Other
 ------
 
-I enjoy watching hiking, running, working out and fun family trips.
+I enjoy watching movies, hiking, running, working out and fun family trips.
