@@ -70,7 +70,7 @@ Tutorials
 
 Service
 ------
-* Reviewer for AMIA 2022, AISTATS 2023, NeurIPS 2023, TNNLS
+* Reviewer for AMIA 2022, AISTATS 2023, NeurIPS 2023, ICLR 2023, TNNLS
 
 
 Other
