@@ -31,7 +31,7 @@ Education
 Publications
 ======
 Peer Reviewed Conference Proceedings
-======
+-----
 * Shou, X., Subramanian, D., Bhattacharjya, D., Gao, T. & Bennett, K. P. Event-former: A Self-supervised Learning Paradigm for Temporal Point Processes. Under review.
 * Shou, X., Gao, T, Subramanian, D., Bhattacharjya, D., Hassanzadeh, O. & Bennett, K. P. Pairwise Causality Guided Transformers for Event Sequences. Under review.
 * Shou, X., Bhattacharjya, D. Gao, T., Subramanian, D., Hassanzadeh, O., & Bennett, K. P. Probabilistic Attention-to-
@@ -48,8 +48,8 @@ AAAI 23. (Oral Presentation)
 * Mavroudeas, G., Neehal, N., Shou, X., Magdon-Ismail, M., Kuruzovich, J., and Bennett K. P. [Predictive Modeling for Complex Care Management](https://ieeexplore.ieee.org/abstract/document/9669714). IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2021.
 * Shou, X., Mavroudeas, G., New, A., Arhin, K., Kuruzovich, J. N., Magdon-Ismail, M., & Bennett, K. P. [Supervised mixture models for population health](https://www.cs.rpi.edu/~magdon/ps/conference/CadreBIBM2019.pdf). IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2019. 
 
-Peer Reviewed Conference Proceedings
-======
+Journal Articles
+-----
 * Shou, X., Mavroudeas, G., Magdon-Ismail, M., Figueroa, J., Kuruzovich, J. N., & Bennett, K. P. [Supervised mixture of expert models for population health](https://www.sciencedirect.com/science/article/abs/pii/S1046202320300438). Methods, 179, 101-110, 2020.
 
 
