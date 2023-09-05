@@ -30,6 +30,7 @@ Education
 
 Publications
 ======
+
 Peer Reviewed Conference Proceedings
 -----
 * Shou, X., Subramanian, D., Bhattacharjya, D., Gao, T. & Bennett, K. P. Event-former: A Self-supervised Learning Paradigm for Temporal Point Processes. Under review.
