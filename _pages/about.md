@@ -36,12 +36,12 @@ Peer Reviewed Conference Proceedings
 * Shou, X., Subramanian, D., Bhattacharjya, D., Gao, T. & Bennett, K. P. Event-former: A Self-supervised Learning Paradigm for Temporal Point Processes. Under review.
 * Shou, X., Gao, T, Subramanian, D., Bhattacharjya, D., Hassanzadeh, O. & Bennett, K. P. Pairwise Causality Guided Transformers for Event Sequences. NeurIPS 2023.
 * Shou, X., Bhattacharjya, D. Gao, T., Subramanian, D., Hassanzadeh, O., & Bennett, K. P. Probabilistic Attention-to-
-Influence Neural Models for Event Sequences. ICML 23. [Neural_SuMMs.pdf](https://github.com/shou-xiao/shou-xiao.github.io/files/11568586/Neural_SuMMs.pdf)
+Influence Neural Models for Event Sequences. ICML 23. [Neural_SuMMs.pdf](https://proceedings.mlr.press/v202/shou23a.html)
 * Shou, X., Gao, T., Subramanian, D., Bhattacharjya, D. & Bennett, K. P. [Influence-Aware Attention for Multi-dimensional
 Temporal Point Process](https://openreview.net/pdf?id=O6lke-lyluT). CLeaR 23 (Causal Learning and Reasoning).
 * Bhattacharjya D., Gao T., Subramanian, D., & Shou, X. Score-Based Learning of Graphical Event Models with Background
-Knowledge Augmentation. AAAI 23. [BK_in_GEMs_final.pdf](https://github.com/shou-xiao/shou-xiao.github.io/files/11568588/BK_in_GEMs_final.pdf)
-* Shou, X., Gao, T., Subramanian, D., Bhattacharjya, D. & Bennett, K. P. [Multi-Label Event Prediction in Continuous Time](https://idea.rpi.edu/sites/default/files/2022-11/xiao_shou_multi_label_aaai23%5B1%5D-1.pdf).
+Knowledge Augmentation. AAAI 23. [BK_in_GEMs_final.pdf](https://ojs.aaai.org/index.php/AAAI/article/view/26437)
+* Shou, X., Gao, T., Subramanian, D., Bhattacharjya, D. & Bennett, K. P. [Concurrent Multi-Label Prediction in Event Streams](https://ojs.aaai.org/index.php/AAAI/article/view/26172).
 AAAI 23. (Oral Presentation)
 * Mavroudeas, G., Magdon-Ismail M., Shou, X., and Bennett K. P. [HMM-Boost: Improved Time Series State Prediction Via Supervised Hidden Markov Models: Case Studies in Epileptic Seizure and Complex Care Management](https://ieeexplore.ieee.org/abstract/document/10030067). IEEE International Conference on Knowledge Graph (ICKG), 2022.
 * Gao, T., Subramanian, D., Bhattacharjya, D., Shou, X., Mattei, N., & Bennett, K. [Causal Inference for Event Pairs in Multivariate Point Processes](https://proceedings.neurips.cc/paper/2021/file/9078f2a8254704bd760460f027072e52-Paper.pdf). NeurIPS, 2021.
