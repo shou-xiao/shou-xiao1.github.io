@@ -34,7 +34,7 @@ Publications
 Peer Reviewed Conference Proceedings
 -----
 * Shou, X., Subramanian, D., Bhattacharjya, D., Gao, T. & Bennett, K. P. Event-former: A Self-supervised Learning Paradigm for Temporal Point Processes. Under review.
-* Shou, X., Gao, T, Subramanian, D., Bhattacharjya, D., Hassanzadeh, O. & Bennett, K. P. Pairwise Causality Guided Transformers for Event Sequences. Under review.
+* Shou, X., Gao, T, Subramanian, D., Bhattacharjya, D., Hassanzadeh, O. & Bennett, K. P. Pairwise Causality Guided Transformers for Event Sequences. NeurIPS 2023.
 * Shou, X., Bhattacharjya, D. Gao, T., Subramanian, D., Hassanzadeh, O., & Bennett, K. P. Probabilistic Attention-to-
 Influence Neural Models for Event Sequences. ICML 23. [Neural_SuMMs.pdf](https://github.com/shou-xiao/shou-xiao.github.io/files/11568586/Neural_SuMMs.pdf)
 * Shou, X., Gao, T., Subramanian, D., Bhattacharjya, D. & Bennett, K. P. [Influence-Aware Attention for Multi-dimensional
@@ -53,7 +53,12 @@ Journal Articles
 -----
 * Shou, X., Mavroudeas, G., Magdon-Ismail, M., Figueroa, J., Kuruzovich, J. N., & Bennett, K. P. [Supervised mixture of expert models for population health](https://www.sciencedirect.com/science/article/abs/pii/S1046202320300438). Methods, 179, 101-110, 2020.
 
+Manuscripts in Preparation
+-----
+* Continuous Time Transformer Point Process.
+* Causal Transformer for Well-Timed Sequential Recommendation. 
 
+  
 Teaching
 ------
 I have been a TA for the following courses:
