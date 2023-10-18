@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I hold a PhD in Applied Math from Department of Mathematical Sciences, Rensselaer Polytechnic Institute ([RPI](https://science.rpi.edu/mathematical-sciences)),  working  under the supervision of [Prof. Kristin Bennett](https://homepages.rpi.edu/~bennek/). I am broadly interested in probabilistic machine learning, time series /temporal point process modeling, causal machine learning and causality natural language understanding. My current research interests include modeling, causal inference, structural discovery and decision making for and from sequential data.
+I hold a PhD in Applied Math from Department of Mathematical Sciences, Rensselaer Polytechnic Institute ([RPI](https://science.rpi.edu/mathematical-sciences)),  working  under the supervision of [Prof. Kristin Bennett](https://homepages.rpi.edu/~bennek/). I am broadly interested in probabilistic machine/deep learning particularly in the domains of time series and temporal point processes, and their intersection with graphical models (i.e. Graphical Event Models). Additionally, I am also interested in causal machine learning, applied both in tabular and sequential data contexts, encompassing fields such as healthcare, recommendation systems, natural language understanding, among others. Beyond modeling, I am equally intrigued by the challenges of structure learning and decision-making processes when dealing with sequential data, particularly for health systems.
 
 <!-- Service
 ------
