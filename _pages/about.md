@@ -33,7 +33,7 @@ Publications
 
 Peer Reviewed Conference Proceedings
 -----
-* Shou, X., Subramanian, D., Bhattacharjya, D., Gao, T. & Bennett, K. P. Event-former: A Self-supervised Learning Paradigm for Temporal Point Processes. Under review.
+* Shou, X., Subramanian, D., Bhattacharjya, D., Gao, T. & Bennett, K. P. Event-former: A Self-supervised Learning Paradigm for Temporal Point Processes. Under review.[Previous Version](https://openreview.net/pdf?id=DbLtChzghG)
 * Shou, X., Gao, T, Subramanian, D., Bhattacharjya, D., Hassanzadeh, O. & Bennett, K. P. Pairwise Causality Guided Transformers for Event Sequences. NeurIPS 2023. [Poster & Abstract](https://neurips.cc/virtual/2023/poster/72785)
 * Shou, X., Bhattacharjya, D. Gao, T., Subramanian, D., Hassanzadeh, O., & Bennett, K. P. Probabilistic Attention-to-
 Influence Neural Models for Event Sequences. ICML 23. [Neural_SuMMs.pdf](https://proceedings.mlr.press/v202/shou23a.html)
