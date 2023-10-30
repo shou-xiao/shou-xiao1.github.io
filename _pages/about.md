@@ -47,11 +47,11 @@ AAAI 23. (Oral Presentation)
 * Gao, T., Subramanian, D., Bhattacharjya, D., Shou, X., Mattei, N., & Bennett, K. [Causal Inference for Event Pairs in Multivariate Point Processes](https://proceedings.neurips.cc/paper/2021/file/9078f2a8254704bd760460f027072e52-Paper.pdf). NeurIPS, 2021.
 * Shou, X., Gao, T., Subramanian, D., & Bennett, K. P. [Match2: hybrid self-organizing map and deep learning strategies for treatment effect estimation](https://dl.acm.org/doi/pdf/10.1145/3459930.3469532). ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (Best Student Paper Award), 2021.
 * Mavroudeas, G., Neehal, N., Shou, X., Magdon-Ismail, M., Kuruzovich, J., and Bennett K. P. [Predictive Modeling for Complex Care Management](https://ieeexplore.ieee.org/abstract/document/9669714). IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2021.
-* Shou, X., Mavroudeas, G., New, A., Arhin, K., Kuruzovich, J. N., Magdon-Ismail, M., & Bennett, K. P. [Supervised mixture models for population health](https://www.cs.rpi.edu/~magdon/ps/conference/CadreBIBM2019.pdf). IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2019. 
+* Shou, X., Mavroudeas, G., New, A., Arhin, K., Kuruzovich, J. N., Magdon-Ismail, M., & Bennett, K. P. [Supervised mixture models for population health (Supervised Mixture of Gaussians)](https://www.cs.rpi.edu/~magdon/ps/conference/CadreBIBM2019.pdf). IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2019. 
 
 Journal Articles
 -----
-* Shou, X., Mavroudeas, G., Magdon-Ismail, M., Figueroa, J., Kuruzovich, J. N., & Bennett, K. P. [Supervised mixture of expert models for population health](https://www.sciencedirect.com/science/article/abs/pii/S1046202320300438). Methods, 179, 101-110, 2020.
+* Shou, X., Mavroudeas, G., Magdon-Ismail, M., Figueroa, J., Kuruzovich, J. N., & Bennett, K. P. [Supervised mixture of expert models for population health (Supervised Mixture of Bernoullis)](https://www.sciencedirect.com/science/article/abs/pii/S1046202320300438). Methods, 179, 101-110, 2020.
 
 Manuscripts in Preparation
 -----
