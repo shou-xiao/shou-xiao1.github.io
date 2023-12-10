@@ -55,8 +55,8 @@ Journal Articles
 
 Manuscripts in Preparation
 -----
-* Continuous Time Transformer Point Process.
-* Causal Transformer for Well-Timed Sequential Recommendation. 
+* Xiao Shou et al. Logical Graphical Event Models.
+* Xiao Shou et al. Structural Causal Summary Markov Models for Counterfactual Event Generation.
 
   
 Teaching
