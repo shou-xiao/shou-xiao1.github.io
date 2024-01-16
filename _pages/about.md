@@ -79,7 +79,7 @@ Service
 
 Awards & Honors
 ------
-*	IBM Research Accomplishment Award 2023 for Graphical Event Models 
+*	IBM Research Accomplishment Award 2023 for Graphical Event Models (Joint work with Debarun Bhattacharjya, Tian Gao, Oktie Hassanzadeh, Nicholas Mattei, Karthikeyan Shanmugam & Shankar Subramanian)
 *	RPI-IBM AI Research Collaboration (AIRC) Scholar & RPI-IBM AIRC Fellowship (2020-2023) 
 *	Schmidt Science Fellowship Nomination 2022 (RPI nomimated only 2 students) 
 *	ACM BCM 21 Best Student Paper Award
