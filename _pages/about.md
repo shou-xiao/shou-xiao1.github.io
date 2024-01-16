@@ -62,10 +62,10 @@ Manuscripts in Preparation
 Teaching
 ------
 I have been a TA for the following courses:
-* Department of Chemistry and Biochemistry, The Ohio State University
+Department of Chemistry and Biochemistry, The Ohio State University
 * Physical Chemistry I: August 2012
 * General Chemistry I & II: January 2013 – August 2013
-* Department of Mathematics, Rensselaer Polytechnic Institute
+Department of Mathematics, Rensselaer Polytechnic Institute
 * Calculus I: Fall 2018
 * Introduction to Data Mathematics (with R): Spring 2019
 
@@ -75,10 +75,19 @@ Tutorials
 
 Service
 ------
-* Reviewer for AMIA 2022, AISTATS 2023, NeurIPS 2023, ICLR 2024, TNNLS
+* Reviewer for AMIA 2022, AISTATS 2023, NeurIPS 2023, ICLR 2024, TNNLS, CLeaR 2024, ICML 2024
 
+Awards & Honors
+------
+*	IBM Research Accomplishment Award 2023 for Graphical Event Models 
+*	RPI-IBM AI Research Collaboration (AIRC) Scholar & RPI-IBM AIRC Fellowship (2020-2023) 
+*	Schmidt Science Fellowship Nomination 2022 (RPI nomimated only 2 students) 
+*	ACM BCM 21 Best Student Paper Award
+*	Midwest Regional College Math Competition Team First Place 
+*	Study Abroad Scholarship (Wittenberg University- Sophia University Exchange Program) by Japanese Government (January - June 2011)
+*	Patterson Award for Outstanding Junior in Chemistry 2011
 
-Other
+Others
 ------
 
 I enjoy watching movies, hiking, running, working out and fun family trips.
